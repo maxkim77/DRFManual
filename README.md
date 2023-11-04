@@ -1,10 +1,9 @@
 # DRFManual
 [ESTSoft] DRFManual - Catching Concepts : Authorizing E-Book Project
 <<<<<<< HEAD
+![앞표지_(1)](https://github.com/maxkim77/DRFManual/assets/141907655/542de388-26a5-4c52-a827-fc9204ee03c8)
 
 
-
-![149219425](https://github.com/maxkim77/DRFManual/assets/141907655/409cdc8e-c6e1-42cf-bf2b-31f0af94810a)
 
 # 머리말
 

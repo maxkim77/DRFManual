@@ -83,7 +83,7 @@
 # 실습코드 : 
 실습 코드는 책집필 Organization에서 볼 수 있으며, View 파트는 제 개인 레파지토리에서도 볼 수 있습니다.
 
-# 관련링크 :
+# 관련링크 : https://paullabworkspace.notion.site/DRF-f570189bf092466e932eef4fbd557144
 
 # 마치며:
 
